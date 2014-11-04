@@ -1,0 +1,22 @@
+T 2 1 1
+T 2 2 1
+KDown
+T 2 3 0
+KUp
+T 2 0 2
+KUp
+KRight
+T 4 2 3
+KDown
+T 2 1 1
+KDown
+T 2 2 0
+KDown
+T 2 0 0
+KDown
+T 2 2 1
+KLeft
+T 4 2 3
+KLeft
+T 2 0 0
+

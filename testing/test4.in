@@ -1,0 +1,416 @@
+# This plays the complete game from test3.in twice, with a New Game key press
+# separating the inputs.
+T 2 1 2
+T 2 1 1
+KShift
+KLeft
+T 2 2 3
+KRight
+T 2 0 0
+KLeft
+T 2 0 0
+T 2 1 2
+KDown
+T 2 3 1
+KRight
+T 2 3 2
+T 2 1 0
+KRight
+T 4 3 2
+T 2 3 0
+KUp
+T 2 2 1
+KDown
+T 2 0 1
+KUp
+T 2 1 1
+KUp
+KRight
+T 2 0 0
+T 2 0 2
+T 2 1 1
+KRight
+T 2 0 0
+T 2 0 0
+T 2 3 3
+KRight
+T 2 3 2
+KLeft
+T 2 2 1
+KUp
+T 2 2 0
+T 2 0 1
+T 2 3 0
+KDown
+T 2 3 1
+T 2 1 2
+KRight
+T 2 3 0
+KRight
+T 2 2 2
+KDown
+T 2 0 2
+KDown
+KUp
+T 2 2 1
+KUp
+T 2 3 2
+T 2 1 2
+T 2 2 1
+KUp
+T 2 3 3
+KUp
+T 2 0 1
+T 2 0 2
+T 2 3 2
+T 2 3 3
+KUp
+T 2 2 2
+T 4 3 2
+T 2 2 3
+T 2 3 2
+T 2 2 0
+KRight
+T 2 0 0
+KDown
+T 2 0 3
+KDown
+KUp
+T 2 2 1
+KUp
+T 2 0 1
+T 2 3 3
+T 2 0 0
+T 2 1 3
+T 2 1 1
+T 2 2 3
+T 2 3 0
+KDown
+T 2 1 2
+T 2 1 0
+KDown
+T 2 2 3
+T 2 3 2
+T 4 0 2
+KRight
+T 2 3 3
+T 2 0 2
+T 2 2 3
+T 2 2 3
+T 2 3 1
+T 2 1 3
+T 2 0 0
+KLeft
+T 2 2 0
+T 2 2 2
+KLeft
+KDown
+T 2 0 1
+KRight
+T 2 0 2
+KDown
+T 2 3 3
+T 2 0 1
+KDown
+T 4 0 2
+KRight
+KLeft
+T 2 3 3
+T 2 1 1
+T 2 0 3
+KDown
+T 2 2 1
+T 2 0 2
+KDown
+T 4 1 2
+KDown
+KUp
+T 2 0 1
+T 2 2 1
+T 2 0 3
+T 2 3 2
+KLeft
+T 2 2 3
+KLeft
+KUp
+KRight
+T 2 2 1
+T 2 2 1
+T 2 2 3
+T 2 3 1
+KLeft
+T 2 1 1
+T 2 3 3
+KRight
+T 2 1 1
+T 2 1 0
+T 2 1 0
+T 2 3 2
+T 2 2 0
+T 2 2 0
+T 4 1 0
+T 2 1 0
+T 2 3 2
+T 2 1 0
+T 2 0 1
+T 2 1 3
+T 2 2 3
+T 2 2 2
+T 2 1 0
+T 2 3 3
+T 2 1 2
+T 4 3 2
+T 2 1 2
+T 2 0 3
+T 2 2 2
+T 2 3 3
+T 4 2 1
+T 2 3 3
+T 4 2 3
+T 2 1 3
+T 2 0 1
+T 2 2 3
+T 2 0 1
+T 2 3 1
+T 2 2 1
+T 2 0 1
+T 2 0 1
+T 2 2 1
+T 2 1 3
+T 2 3 2
+T 2 2 0
+T 2 2 1
+T 4 2 3
+T 2 1 1
+T 2 2 3
+T 2 0 3
+T 2 0 2
+T 2 0 1
+T 2 2 1
+T 2 2 0
+T 2 0 2
+T 2 1 0
+T 2 2 2
+T 2 0 1
+T 2 1 0
+T 2 0 1
+T 4 3 0
+KRight
+KUp
+T 2 1 2
+T 2 3 0
+T 2 0 2
+T 2 1 1
+T 2 2 2
+T 2 0 3
+T 2 1 1
+T 2 0 1
+T 2 3 3
+KNew Game
+T 2 1 2
+T 2 1 1
+KShift
+KR
+KLeft
+T 2 2 3
+KRight
+T 2 0 0
+KLeft
+T 2 0 0
+T 2 1 2
+KDown
+T 2 3 1
+KRight
+T 2 3 2
+T 2 1 0
+KRight
+T 4 3 2
+T 2 3 0
+KUp
+T 2 2 1
+KDown
+T 2 0 1
+KUp
+T 2 1 1
+KUp
+KRight
+T 2 0 0
+T 2 0 2
+T 2 1 1
+KRight
+T 2 0 0
+T 2 0 0
+T 2 3 3
+KRight
+T 2 3 2
+KLeft
+T 2 2 1
+KUp
+T 2 2 0
+T 2 0 1
+T 2 3 0
+KDown
+T 2 3 1
+T 2 1 2
+KRight
+T 2 3 0
+KRight
+T 2 2 2
+KDown
+T 2 0 2
+KDown
+KUp
+T 2 2 1
+KUp
+T 2 3 2
+T 2 1 2
+T 2 2 1
+KUp
+T 2 3 3
+KUp
+T 2 0 1
+T 2 0 2
+T 2 3 2
+T 2 3 3
+KUp
+T 2 2 2
+T 4 3 2
+T 2 2 3
+T 2 3 2
+T 2 2 0
+KRight
+T 2 0 0
+KDown
+T 2 0 3
+KDown
+KUp
+T 2 2 1
+KUp
+T 2 0 1
+T 2 3 3
+T 2 0 0
+T 2 1 3
+T 2 1 1
+T 2 2 3
+T 2 3 0
+KDown
+T 2 1 2
+T 2 1 0
+KDown
+T 2 2 3
+T 2 3 2
+T 4 0 2
+KRight
+T 2 3 3
+T 2 0 2
+T 2 2 3
+T 2 2 3
+T 2 3 1
+T 2 1 3
+T 2 0 0
+KLeft
+T 2 2 0
+T 2 2 2
+KLeft
+KDown
+T 2 0 1
+KRight
+T 2 0 2
+KDown
+T 2 3 3
+T 2 0 1
+KDown
+T 4 0 2
+KRight
+KLeft
+T 2 3 3
+T 2 1 1
+T 2 0 3
+KDown
+T 2 2 1
+T 2 0 2
+KDown
+T 4 1 2
+KDown
+KUp
+T 2 0 1
+T 2 2 1
+T 2 0 3
+T 2 3 2
+KLeft
+T 2 2 3
+KLeft
+KUp
+KRight
+T 2 2 1
+T 2 2 1
+T 2 2 3
+T 2 3 1
+KLeft
+T 2 1 1
+T 2 3 3
+KRight
+T 2 1 1
+T 2 1 0
+T 2 1 0
+T 2 3 2
+T 2 2 0
+T 2 2 0
+T 4 1 0
+T 2 1 0
+T 2 3 2
+T 2 1 0
+T 2 0 1
+T 2 1 3
+T 2 2 3
+T 2 2 2
+T 2 1 0
+T 2 3 3
+T 2 1 2
+T 4 3 2
+T 2 1 2
+T 2 0 3
+T 2 2 2
+T 2 3 3
+T 4 2 1
+T 2 3 3
+T 4 2 3
+T 2 1 3
+T 2 0 1
+T 2 2 3
+T 2 0 1
+T 2 3 1
+T 2 2 1
+T 2 0 1
+T 2 0 1
+T 2 2 1
+T 2 1 3
+T 2 3 2
+T 2 2 0
+T 2 2 1
+T 4 2 3
+T 2 1 1
+T 2 2 3
+T 2 0 3
+T 2 0 2
+T 2 0 1
+T 2 2 1
+T 2 2 0
+T 2 0 2
+T 2 1 0
+T 2 2 2
+T 2 0 1
+T 2 1 0
+T 2 0 1
+T 4 3 0
+KRight
+KUp
+T 2 1 2
+T 2 3 0
+T 2 0 2
+T 2 1 1
+T 2 2 2
+T 2 0 3
+T 2 1 1
+T 2 0 1
+T 2 3 3

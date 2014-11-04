@@ -1,0 +1,68 @@
+# This is a script produced by the --testing option to your program.
+# It indicates actions your program took (significant calls to methods in 
+# game2048.gui.Game).
+#   * Lines containing just "C" indicate calls to Game.clear().
+#   * Lines of the form 
+#         A v r c
+#     indicate calls Game..addTile(v, r, c)
+#   * Lines of the form
+#         D s m t00 t01 t02 t03 t10 t11 t12 t13 ... t33
+#     denote calls to displayMoves when s is the score of the current game,
+#     m is the maximum final score so far in this session (0 until the end of
+#     the first game) and trc is the value of the tile at row r, column c,
+#     or 0 if there is no tile there.
+#   * Lines of the form
+#         E s ms
+#     indicate calls to .endGame() when s is the current game score, and
+#     ms is the maximum game score so far.
+#
+C
+C
+A 2 2 3
+A 2 3 0
+D 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 0 0 0
+A 2 3 3
+D 4 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 2
+A 2 0 1
+D 4 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 0 2
+A 2 0 3
+D 8 0 2 0 0 0 0 0 0 0 0 0 0 0 4 4 0 0
+A 4 0 2
+D 16 0 2 4 0 0 0 0 0 0 0 0 0 0 8 0 0 0
+A 2 1 3
+D 16 0 2 4 0 0 2 0 0 0 0 0 0 0 8 0 0 0
+A 2 0 3
+D 20 0 4 4 0 2 8 0 0 0 0 0 0 0 0 0 0 0
+A 4 2 3
+D 28 0 8 2 0 0 8 0 0 0 4 0 0 0 0 0 0 0
+A 2 1 1
+D 48 0 16 4 0 0 4 0 0 0 0 0 0 0 0 0 0 0
+A 2 0 3
+D 48 0 0 0 0 0 0 0 0 0 16 0 0 0 4 4 0 2
+A 4 3 2
+D 56 0 0 0 0 0 0 0 0 0 16 0 0 0 8 4 2 0
+A 2 1 3
+D 56 0 0 0 0 0 0 0 0 2 0 0 0 16 0 8 4 2
+A 2 2 1
+D 56 0 0 0 0 0 0 0 0 2 0 0 2 16 0 8 4 2
+A 2 0 2
+D 60 0 0 8 4 2 0 0 4 16 0 0 0 2 0 0 0 0
+A 2 1 1
+D 68 0 0 8 8 2 0 2 0 16 0 0 0 2 0 0 0 0
+A 2 1 0
+D 88 0 0 0 16 2 0 0 4 16 0 0 0 2 0 0 0 0
+A 2 1 0
+D 88 0 0 0 0 0 0 0 0 2 0 0 16 16 2 0 4 2
+A 2 1 0
+D 124 0 0 0 0 0 0 0 0 4 0 0 0 32 0 2 4 2
+A 2 2 0
+D 124 0 0 0 0 0 0 0 0 4 0 0 0 32 2 2 4 2
+A 2 2 0
+D 128 0 0 0 0 0 0 0 0 4 0 0 2 32 0 4 4 2
+A 2 1 1
+D 136 0 0 0 0 0 0 0 2 4 0 0 2 32 0 0 8 2
+A 2 3 1
+D 140 0 0 2 4 4 0 0 8 32 0 0 0 2 0 0 0 0
+A 2 2 2
+D 152 0 0 0 2 8 0 0 8 32 0 0 0 4 0 0 0 0
+A 2 2 2

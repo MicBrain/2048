@@ -1,0 +1,143 @@
+Version 1.0 6/30/2014.
+
+This directory contains a skeleton for CS61B Project 0.
+
+Although some of what's in here might seem mysterious to you, try to 
+understand what it's all for.  Don't be afraid to ask us about it.
+
+GENERAL NOTE:  EVERYTHING in these files is changeable as you see fit, unless
+   otherwise noted.  Your task is to conform to the spec, period.  While
+   we have suggested, with these files, certain points about the design, we
+   don't require any of it.  
+
+CONTENTS:
+---------
+
+README                 This file.  You need not turn this in.
+        
+Makefile               For those of you using the standard Unix tool chain
+                       rather than Eclipse, this file provides for some
+                       simple compilation/testing control.  See the 
+                       comments in it for the targets provided.  Those of
+                       you using Eclipse will need it on the instructional
+                       machines (the commands 'make' and 'make check' must
+                       work correctly on your submission, regardless of
+                       which editor or IDE you used).
+
+staff-version          If we update the skeleton, this file will contain a
+                       unique version id indicating what version of the
+                       skeleton is currently in use.
+
+
+game2048/
+
+    Makefile           A Makefile for compiling, style checking, testing, and
+                       cleaning up files in this directory.
+                        
+    Main.java          Entry point to program. You can complete the assignment
+                       by modifying only this file if you want, but you may
+                       add others.
+
+    gui/               Directory containing a subpackage that displays a
+                       board and handles I/O.  You should not modify the
+                       contents of this directory (if you do, your
+                       modifications will be discarded for grading purposes).
+
+tests/                 Directory with integration test machinery.
+
+    tester.py          A Python 3 script for testing your program.  It makes
+                       use of the --testing option in your program to feed
+                       in known moves.
+    testing.py         A module that supports testing in general.
+
+    
+
+
+
+MERGING CHANGES:
+----------------
+
+If and when we publish new versions of the skeleton, you may want to 
+incorporate those changes in your project.  This is known as "merging".
+Basically, it works like this:
+
+   0. Commit your current files (as with 'hw commit'). NEVER start
+      merging files until you have done this successfully!!!
+   1. Compute the set of differences between the version of the skeleton
+      from which your current code comes and the current version of the
+      skeleton.
+   2. Try to apply these differences to your current code.
+   3. Where the changes in the skeleton overlap your changes, there are
+      "merge conflicts".  Edit the files containing these conflicts and
+      resolve the conflict as appropriate.
+   4. When done, mark the files as no longer being conflicted.
+   5. Commit the new version of your files.  Again, NEVER do
+      additional editing until you have successfully committed.
+
+This process is so common that all widely used version-control systems
+support it with one or more commands.  In Subversion, this is the 'svn
+merge' command.  Rather than have you confront this directly, we've
+introduced the command 'mergeskel' to do steps 1 and 2 and
+'resolveskel' to do step 4.  So,
+
+   A. Put yourself in your project working directory first.
+   B. Commit any changes (hw commit)
+   C. Run mergeskel
+   D. Edit out any conflicts (hw status will tell you which files 
+      have conflicts).
+   E. Run resolveskel, which tells Subversion that the conflicts are 
+      fixed (it otherwise will not let you commit.)
+   F. Commit the results.
+
+If you have files lying around with names like "FOO.merge-right.r1234", you
+haven't resolved something.
+
+The rest of this section explains the full version of what's really
+going on (you can skip it, but it's good to know).  We store copies of
+all versions of the skeleton in staff repository files called (on the
+instructional machines)
+
+       $STAFFREPOS/tags/projN-V
+
+where projN is the project (e.g., proj1) and V is a version number
+(starting at 0).  The current version of the skeleton is in
+
+       $STAFFREPOS/projN
+
+The file staff-version in your project directory, if present, contains the
+the tag name of that skeleton (if it isn't present, the tag name is projN-0,
+as in proj1-0).
+
+In a project working directory, say proj1, after committing all your
+current files, you (or mergeskel) merge in a new version of the
+skeleton (on the instructional machines) by first figuring out (using
+staff-version, if present) what was the last version you updated to.
+Suppose this is proj1-0.  Now you enter the commands
+
+        svn merge --accept=postpone $STAFFREPOS/tags/proj1-0 $STAFFREPOS/proj1
+
+This produces some progress messages, possibly including some messages
+about conflicts.  If there are no conflicts, you can simply commit your files
+and you are done.
+
+Otherwise, each file with conflicts will have sections like this
+
+    <<<<<<< .working
+         System.out.println ("Welcome to my project");
+         initialize ();
+    =======
+         initialize (args);
+    >>>>>>> .merge-right.r1009
+
+The part before the ======= was in your file to start with.  The part after 
+======= is from the updated version of the skeleton.  Choose which you
+want to use, or what combination you want to use and edit accordingly.
+Then remove the marker lines (<<<<, >>>>, ====) and save.  Do this for 
+all conflicted files.  Finally, you (or resolveskel) can run the command 
+
+    svn resolved --accept working <FILE>
+
+for each <FILE> you have resolved in this way.  If you've done this
+right, 'hw status' will no longer show conflicts (just modified
+files).  Now commit your work and you're done.
+

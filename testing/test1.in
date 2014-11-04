@@ -1,0 +1,70 @@
+# This is the log of inputs received by an implementation of 2048.  Logs like
+# this can be built by hand or produced from an actual game by using the
+# --log option.
+#   *  Lines of the form 
+#          T v r c
+#      indicate random tiles returned by calls to the getRandomTile method.
+#      v is the tile value (2 or 4), r is the row number (numbering from the
+#      top from 0), and c is the column number (numbering from the left from
+#      0).
+#   *  Lines of the form
+#          Kname
+#      indicate key presses and button pushes from the user.  The names of
+#      the arrow keys are Up, Down, Left, and Right.  The "Quit" button is
+#      named "Quit" and the "New Game" button is named "New Game".
+#   *  Lines starting with "#" are comments, and are ignored.
+# An end-of-file on this file is implicitly translated to "KQuit".
+T 2 2 3
+T 2 3 0
+KLeft
+T 2 3 3
+KDown
+T 2 0 1
+KDown
+T 2 0 3
+KLeft
+T 4 0 2
+KLeft
+T 2 1 3
+KLeft
+T 2 0 3
+KUp
+T 4 2 3
+KLeft
+T 2 1 0
+T 2 1 1
+KUp
+T 2 0 1
+T 2 0 3
+KDown
+T 4 3 2
+KLeft
+T 2 1 3
+KRight
+T 2 2 1
+KRight
+T 2 0 2
+KUp
+T 2 2 3
+T 2 1 1
+KUp
+T 2 1 0
+KRight
+T 2 1 0
+KDown
+T 2 1 0
+KRight
+T 2 2 0
+KDown
+T 2 2 0
+KRight
+T 2 1 1
+KRight
+T 2 3 1
+KUp
+T 2 1 2
+T 2 0 3
+T 2 0 2
+T 2 2 2
+KRight
+T 2 2 2

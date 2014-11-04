@@ -1,0 +1,3333 @@
+T 2 3 2
+T 2 1 0
+KUp
+T 2 1 2
+KLeft
+T 2 3 0
+KUp
+T 2 1 2
+KUp
+T 2 0 2
+T 2 2 2
+KUp
+T 4 0 0
+T 2 3 1
+KLeft
+T 2 0 3
+KRight
+T 2 2 0
+KUp
+T 2 2 0
+KRight
+T 2 3 0
+KRight
+T 4 2 2
+KUp
+T 2 3 3
+KLeft
+T 2 1 3
+KUp
+T 2 2 1
+KUp
+T 2 2 1
+KRight
+T 2 2 1
+KUp
+T 2 3 3
+KLeft
+T 2 0 3
+KUp
+T 2 2 3
+KRight
+T 2 3 1
+KUp
+T 2 2 3
+KNew Game
+T 2 0 3
+T 4 1 2
+KUp
+T 2 3 3
+KUp
+T 4 1 1
+KRight
+T 2 0 2
+KLeft
+T 2 3 3
+KUp
+T 2 3 1
+KRight
+T 4 3 3
+T 2 2 0
+KUp
+T 2 1 2
+KLeft
+T 2 1 1
+T 2 2 0
+T 2 2 3
+KUp
+T 2 1 3
+KUp
+T 2 2 3
+KLeft
+T 2 0 1
+T 2 2 1
+KRight
+T 2 0 1
+T 2 3 3
+KUp
+T 2 3 3
+KUp
+T 4 3 1
+KUp
+T 2 3 1
+KUp
+T 2 1 1
+T 2 3 0
+KRight
+T 2 0 1
+T 2 2 1
+KUp
+T 2 1 1
+T 2 2 3
+T 2 3 3
+KUp
+T 2 0 3
+T 4 1 3
+T 2 0 1
+T 4 2 1
+KLeft
+T 2 3 0
+KUp
+KRight
+T 2 3 3
+T 2 0 0
+KUp
+T 2 3 3
+KLeft
+T 2 1 0
+T 4 3 0
+T 2 0 3
+T 2 1 2
+KUp
+T 2 2 3
+KLeft
+T 2 3 2
+KRight
+T 2 1 0
+KUp
+T 2 3 2
+KLeft
+T 2 1 2
+KUp
+T 2 3 2
+KRight
+T 2 3 0
+KUp
+T 2 2 1
+KLeft
+T 2 3 1
+KUp
+T 2 2 3
+KUp
+T 2 1 1
+T 4 2 0
+KUp
+KRight
+T 2 2 1
+KUp
+T 2 2 3
+KRight
+T 2 1 1
+KLeft
+T 2 2 1
+KUp
+T 2 0 0
+T 2 3 3
+KRight
+T 2 0 3
+T 2 1 2
+KUp
+T 2 0 0
+KLeft
+T 2 0 3
+T 2 1 0
+T 2 1 3
+KUp
+T 2 2 3
+KLeft
+T 2 2 0
+T 2 3 1
+KUp
+T 2 0 1
+T 2 3 3
+KRight
+T 2 1 0
+KLeft
+T 2 2 3
+KLeft
+T 2 2 2
+KUp
+T 2 3 2
+KUp
+T 2 3 0
+KLeft
+T 2 0 2
+T 4 1 2
+KLeft
+T 2 1 0
+T 2 2 1
+KLeft
+T 2 1 1
+KUp
+T 2 0 3
+KLeft
+T 2 1 3
+KUp
+T 2 1 0
+T 2 1 2
+KRight
+T 2 3 1
+KUp
+T 4 0 3
+T 4 1 0
+KUp
+T 4 1 0
+T 4 0 2
+T 2 0 0
+T 4 0 1
+T 2 3 2
+KRight
+T 2 0 2
+T 4 2 2
+KUp
+T 2 3 1
+KLeft
+T 4 2 0
+T 2 0 2
+T 2 2 1
+KLeft
+T 2 3 0
+T 2 0 2
+T 2 1 1
+KUp
+T 2 0 3
+KRight
+T 2 2 1
+KUp
+T 2 1 2
+T 2 2 0
+KRight
+T 4 2 3
+T 2 3 2
+KUp
+T 2 0 2
+T 2 0 1
+T 2 0 2
+T 4 1 3
+T 2 3 0
+KLeft
+T 2 1 1
+T 2 2 1
+KRight
+T 2 1 2
+T 2 1 2
+T 4 0 3
+T 2 3 0
+KUp
+T 2 2 0
+KUp
+T 2 3 3
+KLeft
+T 2 1 0
+T 2 0 2
+T 2 1 0
+T 2 3 1
+KUp
+T 2 1 3
+KRight
+T 2 0 1
+T 4 0 0
+T 2 3 0
+KRight
+T 2 3 0
+KUp
+T 2 1 1
+KLeft
+T 2 3 1
+KLeft
+T 2 2 0
+T 2 3 1
+KUp
+T 2 0 0
+T 2 1 2
+KLeft
+T 2 3 1
+KRight
+T 2 3 3
+T 2 3 1
+KUp
+T 2 3 1
+KRight
+T 2 2 2
+KUp
+T 2 2 2
+T 2 3 1
+KUp
+T 2 1 3
+T 2 3 3
+KLeft
+T 2 0 3
+KUp
+T 4 0 2
+T 2 0 1
+T 2 1 1
+T 2 2 2
+KUp
+T 2 2 1
+KRight
+T 2 1 3
+T 4 1 0
+KUp
+T 2 3 1
+KRight
+T 2 1 2
+T 2 3 3
+T 2 1 1
+T 2 0 2
+T 2 2 2
+KUp
+T 2 3 2
+KUp
+T 2 3 1
+KLeft
+T 2 2 2
+KUp
+T 2 1 0
+T 2 1 2
+T 2 3 1
+KLeft
+T 2 1 1
+T 2 0 1
+T 2 2 1
+KUp
+T 2 1 2
+KRight
+T 2 3 3
+KUp
+KLeft
+T 2 1 3
+KUp
+T 2 1 3
+KUp
+T 2 2 1
+KRight
+T 4 1 1
+T 4 2 3
+T 2 3 0
+KUp
+T 2 0 0
+T 2 2 3
+T 4 1 1
+T 2 3 0
+KUp
+T 2 0 0
+T 2 3 2
+KRight
+T 4 2 0
+KUp
+T 2 0 2
+T 2 2 1
+KLeft
+T 2 3 0
+KUp
+T 2 1 1
+T 2 2 2
+KUp
+KRight
+T 2 1 1
+T 2 0 2
+T 2 1 1
+T 2 1 3
+T 2 3 3
+KUp
+T 2 2 0
+KUp
+T 2 1 0
+T 2 2 0
+T 2 2 1
+KLeft
+T 2 3 1
+KLeft
+T 2 3 2
+KUp
+T 2 3 1
+KRight
+T 2 1 0
+KUp
+T 2 3 3
+KUp
+T 2 1 0
+T 2 0 2
+T 2 2 1
+KUp
+T 2 2 2
+KRight
+T 2 1 2
+T 2 1 2
+T 2 3 0
+KUp
+T 2 3 1
+KLeft
+T 2 3 0
+T 4 1 2
+T 2 2 2
+KUp
+T 2 2 1
+KLeft
+T 2 3 3
+KUp
+T 2 1 2
+T 4 1 1
+T 2 2 0
+KLeft
+T 2 3 1
+KRight
+T 2 0 2
+T 4 0 0
+T 2 0 2
+T 2 3 2
+KUp
+T 2 2 1
+KLeft
+T 2 1 3
+T 2 0 1
+T 2 3 3
+KLeft
+T 2 3 1
+KUp
+T 2 0 3
+T 2 0 0
+T 4 0 1
+T 2 2 2
+KRight
+T 2 0 3
+T 2 1 3
+T 2 2 1
+KUp
+T 2 0 2
+T 2 0 2
+T 2 0 3
+T 2 2 0
+KLeft
+T 4 2 0
+T 2 2 3
+KLeft
+T 2 0 2
+T 2 2 2
+KRight
+T 2 2 0
+KUp
+T 2 1 0
+T 2 3 3
+KLeft
+T 4 0 3
+T 2 2 1
+KRight
+T 2 2 1
+KLeft
+T 2 1 3
+T 4 3 1
+KUp
+T 2 0 2
+T 2 1 3
+T 2 3 3
+KRight
+T 2 1 3
+T 2 3 0
+KUp
+T 2 0 3
+T 2 0 2
+T 2 1 1
+T 2 2 3
+T 2 2 1
+T 2 1 0
+T 2 1 2
+T 2 1 1
+T 2 2 0
+T 2 2 1
+T 2 1 0
+T 2 0 0
+T 2 3 1
+KUp
+T 2 0 1
+T 2 2 3
+T 2 1 2
+T 2 1 1
+T 2 0 2
+T 2 3 3
+KUp
+T 4 2 2
+T 4 3 3
+KUp
+T 2 3 3
+KLeft
+T 4 1 3
+T 4 3 3
+KUp
+T 2 3 1
+KUp
+T 2 1 3
+T 2 1 2
+T 2 2 2
+T 2 3 2
+KLeft
+T 2 1 3
+KUp
+T 2 0 3
+T 4 2 2
+KUp
+T 2 2 2
+T 2 1 1
+T 2 3 0
+KRight
+T 2 2 3
+T 2 0 1
+T 2 1 2
+T 2 2 2
+T 4 1 3
+T 2 3 1
+KLeft
+T 2 3 1
+KRight
+T 2 0 1
+T 2 0 1
+T 2 1 1
+T 2 1 1
+T 2 2 3
+T 2 0 2
+T 2 2 0
+KLeft
+T 2 0 1
+T 2 0 0
+T 2 2 2
+T 2 2 2
+T 2 0 3
+T 2 2 0
+T 2 2 2
+T 2 3 2
+KUp
+KRight
+T 2 3 1
+KUp
+T 2 0 1
+T 2 2 0
+KRight
+T 2 2 0
+KUp
+T 2 2 1
+T 2 3 2
+KRight
+T 2 0 2
+T 2 1 2
+T 4 2 1
+KUp
+T 2 3 3
+T 2 2 2
+T 2 0 1
+T 2 0 3
+T 2 1 1
+T 2 0 2
+T 2 3 0
+KLeft
+T 2 1 1
+T 2 2 0
+T 2 0 2
+T 2 3 1
+KUp
+T 2 2 2
+KUp
+T 2 2 1
+T 2 3 3
+KUp
+T 2 1 1
+T 2 2 0
+T 2 3 1
+KLeft
+T 2 1 0
+T 2 1 0
+T 2 2 0
+T 2 2 0
+T 2 3 2
+KUp
+T 2 0 2
+T 2 0 3
+T 2 3 0
+KRight
+T 2 0 3
+T 2 1 2
+T 2 1 2
+T 2 1 0
+KUp
+T 2 1 1
+T 4 2 0
+KUp
+T 2 1 2
+T 2 1 2
+T 2 2 1
+KRight
+T 2 2 3
+T 2 1 1
+T 2 0 1
+T 2 0 2
+T 2 0 2
+T 2 3 2
+KUp
+T 2 1 1
+T 2 2 1
+KRight
+T 2 1 1
+T 2 0 2
+T 2 2 2
+T 2 3 1
+KUp
+T 2 0 2
+T 2 1 1
+T 2 1 2
+T 2 3 3
+T 2 1 3
+T 2 0 1
+T 2 1 1
+T 2 3 3
+T 2 2 3
+T 2 2 0
+KLeft
+T 2 0 2
+T 2 2 2
+T 2 3 3
+KUp
+T 2 3 1
+KLeft
+T 2 1 3
+KUp
+T 2 3 0
+KRight
+T 2 3 2
+KUp
+T 2 0 3
+T 2 2 1
+KRight
+T 2 3 0
+KUp
+T 2 1 0
+T 2 3 0
+KLeft
+T 2 3 0
+T 2 0 0
+T 2 1 3
+T 2 3 1
+KUp
+T 2 3 3
+KUp
+T 2 3 2
+KUp
+T 2 3 0
+KLeft
+T 2 2 1
+T 4 2 3
+KUp
+T 2 0 1
+T 2 2 0
+T 2 2 0
+T 2 0 0
+T 2 2 0
+T 2 2 1
+T 2 3 1
+KLeft
+T 2 0 2
+T 2 1 1
+T 2 3 3
+KLeft
+T 2 2 1
+T 2 2 1
+T 2 2 0
+T 2 2 3
+KRight
+T 2 2 1
+KUp
+T 2 0 1
+T 2 2 3
+T 2 0 3
+T 2 2 2
+T 2 2 1
+KLeft
+T 2 2 2
+KUp
+T 2 1 3
+KRight
+T 2 2 0
+KUp
+T 2 1 3
+T 2 1 3
+T 2 0 0
+T 2 3 3
+KRight
+T 2 0 1
+T 2 3 3
+T 2 0 3
+T 2 0 0
+T 2 2 0
+KLeft
+T 2 1 0
+T 2 1 0
+T 2 0 3
+T 2 1 3
+KUp
+T 2 3 0
+KUp
+T 2 1 0
+T 2 0 2
+T 2 1 1
+T 2 1 3
+T 2 0 3
+T 2 1 1
+T 2 0 1
+T 2 2 3
+KUp
+T 2 1 3
+T 2 1 2
+T 2 0 2
+T 2 3 1
+KRight
+T 4 3 1
+KUp
+T 2 1 1
+T 2 0 1
+T 2 3 1
+KLeft
+T 4 1 2
+T 2 0 1
+T 2 1 0
+T 2 0 0
+T 2 1 3
+T 2 3 3
+KUp
+T 2 2 1
+T 2 1 3
+T 2 3 3
+KUp
+T 2 3 1
+KUp
+T 2 1 3
+T 2 1 3
+T 2 3 1
+T 2 2 3
+KLeft
+T 2 0 2
+T 2 1 0
+T 2 2 2
+KRight
+T 2 3 0
+KUp
+T 2 2 0
+KUp
+T 2 0 3
+T 2 1 0
+T 2 0 3
+T 2 3 0
+KLeft
+T 2 2 0
+T 2 0 1
+T 2 1 3
+KRight
+T 2 3 2
+KUp
+T 4 3 1
+KUp
+T 2 3 1
+KRight
+T 4 0 3
+T 2 0 3
+T 2 1 0
+KLeft
+T 2 1 0
+T 2 0 3
+T 2 1 1
+T 2 0 1
+T 2 3 2
+KLeft
+T 2 0 0
+T 2 0 2
+T 2 3 1
+KUp
+T 2 3 0
+KRight
+T 2 2 1
+T 2 3 0
+KUp
+T 4 0 1
+T 2 0 0
+T 2 0 1
+T 2 2 1
+KLeft
+T 4 0 1
+T 2 0 0
+T 2 3 3
+KUp
+T 2 0 3
+T 2 0 0
+T 4 1 2
+T 2 2 1
+T 2 2 1
+T 2 3 2
+KUp
+T 2 0 1
+T 2 2 0
+KLeft
+T 4 2 2
+T 4 1 0
+T 2 2 2
+T 2 0 3
+T 2 0 2
+T 2 2 1
+T 2 3 3
+KUp
+T 2 3 0
+KLeft
+T 2 0 0
+T 2 3 3
+KUp
+T 2 1 1
+T 2 3 1
+KLeft
+T 2 3 0
+T 2 0 3
+T 2 3 2
+KUp
+T 2 0 2
+T 2 3 0
+KLeft
+T 2 3 0
+T 2 1 0
+T 2 1 3
+KRight
+T 2 3 1
+KUp
+T 4 0 1
+T 2 3 0
+KRight
+T 4 3 1
+KUp
+T 2 3 2
+KRight
+T 2 2 3
+T 2 3 3
+T 2 2 1
+KUp
+T 2 1 0
+KLeft
+T 2 0 0
+T 2 0 0
+T 2 3 3
+KUp
+T 2 1 1
+T 2 0 1
+T 2 0 3
+T 4 3 1
+KLeft
+T 2 3 3
+KUp
+T 2 1 3
+T 2 3 2
+KRight
+T 2 1 2
+T 2 1 3
+T 2 2 2
+T 2 1 1
+T 2 2 3
+T 2 2 0
+KRight
+T 2 3 3
+T 2 2 2
+T 4 1 2
+T 2 0 3
+T 2 3 3
+T 2 1 3
+T 2 2 2
+T 2 1 3
+T 2 3 3
+T 2 2 3
+T 4 3 3
+T 4 1 3
+T 2 0 2
+T 2 0 1
+T 2 2 1
+KUp
+T 2 3 1
+KRight
+T 4 3 2
+KUp
+T 2 1 3
+T 2 2 1
+KRight
+T 2 0 2
+T 2 3 3
+T 2 0 2
+T 2 0 1
+T 2 0 2
+T 2 3 1
+KRight
+T 2 2 2
+T 2 2 0
+KRight
+T 2 3 0
+KRight
+T 2 3 3
+T 2 0 0
+T 4 1 2
+T 2 1 0
+KLeft
+T 2 1 3
+KUp
+T 2 2 0
+T 2 0 2
+T 2 1 2
+T 2 1 2
+T 2 2 0
+T 2 0 3
+T 2 0 0
+T 2 1 2
+T 2 2 1
+T 2 0 1
+T 2 0 1
+T 4 1 0
+T 2 3 0
+KUp
+T 2 2 1
+T 2 3 2
+KLeft
+T 2 1 3
+T 2 0 3
+T 2 2 3
+KUp
+T 2 3 2
+KUp
+T 2 2 2
+T 2 2 2
+T 2 0 0
+T 2 0 3
+T 4 2 1
+T 2 1 0
+T 4 3 1
+T 2 2 0
+KRight
+T 2 0 1
+T 2 1 0
+T 2 2 1
+T 4 3 1
+KUp
+T 2 2 0
+KUp
+T 2 3 2
+KRight
+T 2 3 0
+KUp
+T 2 1 0
+T 2 3 2
+KRight
+T 2 3 2
+KUp
+T 2 3 2
+T 2 2 1
+T 2 3 3
+KLeft
+T 2 1 3
+KRight
+T 2 0 0
+T 2 2 1
+KRight
+T 4 3 2
+KUp
+T 2 2 0
+KUp
+KLeft
+T 2 0 0
+T 2 0 0
+T 2 0 3
+T 2 3 2
+KRight
+T 2 1 3
+T 2 3 2
+T 2 3 0
+KUp
+T 2 0 1
+T 2 2 1
+T 2 3 2
+KUp
+T 2 3 2
+KRight
+T 2 3 0
+KLeft
+T 2 3 3
+KUp
+T 2 1 3
+T 2 3 0
+KRight
+T 2 1 2
+T 2 2 1
+KUp
+KLeft
+T 2 0 3
+T 2 1 0
+T 2 3 3
+KUp
+T 2 0 3
+T 2 3 2
+KLeft
+T 2 1 1
+T 2 1 0
+T 2 0 2
+T 2 1 3
+KRight
+T 2 0 2
+T 2 0 3
+T 4 3 2
+KUp
+T 2 0 3
+T 2 2 1
+KLeft
+T 2 1 2
+T 2 1 2
+T 2 1 1
+T 2 3 3
+KRight
+T 2 1 0
+KLeft
+T 2 3 2
+KUp
+T 2 0 0
+T 2 3 2
+KUp
+T 4 0 0
+T 2 1 0
+T 2 3 2
+T 2 3 0
+KLeft
+T 2 3 1
+T 2 1 1
+T 2 2 1
+T 2 1 1
+T 2 0 1
+T 2 1 0
+T 2 3 0
+T 2 3 3
+KUp
+T 2 2 2
+KLeft
+T 4 3 3
+KUp
+T 2 3 2
+KRight
+T 2 3 1
+KUp
+T 2 2 1
+T 2 1 2
+T 2 0 0
+T 2 3 2
+KRight
+T 2 3 2
+KUp
+T 2 3 3
+T 2 1 2
+T 2 3 1
+KRight
+T 2 1 0
+T 2 1 0
+T 2 3 1
+KUp
+T 2 1 3
+T 2 2 1
+T 2 0 3
+T 2 2 3
+T 2 3 3
+KLeft
+T 2 2 1
+T 2 1 1
+T 4 1 3
+KRight
+T 2 0 2
+T 2 3 2
+KUp
+T 2 0 2
+T 2 0 3
+T 2 3 3
+KUp
+T 2 0 1
+T 2 2 0
+KRight
+T 2 3 2
+KUp
+T 2 3 1
+KUp
+T 2 1 3
+T 4 2 2
+T 2 1 0
+T 2 1 1
+T 2 1 1
+T 2 1 1
+T 4 3 1
+KRight
+T 2 3 2
+KUp
+T 2 2 1
+KLeft
+T 2 2 0
+T 4 0 3
+T 2 1 2
+T 2 0 3
+T 4 2 3
+KRight
+KDown
+T 2 3 3
+T 2 2 0
+T 2 1 1
+T 2 3 1
+T 2 3 1
+T 2 1 0
+T 2 2 0
+T 2 1 1
+T 2 2 0
+T 4 3 1
+T 2 2 3
+T 2 3 3
+T 2 3 0
+T 2 1 1
+T 2 0 0
+KUp
+T 2 1 2
+T 2 1 1
+T 2 1 0
+T 4 1 0
+T 2 1 0
+T 4 0 3
+T 2 1 1
+T 2 2 3
+T 2 2 2
+T 2 0 0
+T 2 0 0
+T 4 0 0
+T 2 0 2
+T 4 0 3
+T 2 2 0
+T 2 3 0
+T 2 0 0
+T 2 1 2
+T 2 2 2
+T 2 3 3
+KRight
+T 2 0 1
+T 2 1 1
+T 2 2 0
+T 2 0 1
+T 2 0 1
+T 2 0 3
+T 2 2 2
+T 2 1 2
+T 2 0 3
+T 2 3 3
+T 2 3 0
+KUp
+T 2 2 1
+KRight
+T 2 2 0
+KUp
+T 2 1 0
+T 2 1 3
+T 2 1 2
+T 2 2 2
+T 2 0 0
+T 2 0 2
+T 2 1 1
+T 2 1 1
+T 2 0 0
+T 2 2 3
+KRight
+T 2 2 1
+KUp
+T 2 2 0
+KUp
+T 2 3 1
+KRight
+T 2 0 0
+T 2 0 3
+T 2 1 0
+KUp
+T 2 0 1
+T 2 1 3
+T 2 1 2
+T 2 0 1
+T 2 3 2
+KLeft
+T 2 2 2
+KUp
+T 2 2 2
+T 2 2 2
+T 2 1 3
+KLeft
+T 2 0 0
+T 2 3 1
+KUp
+T 4 3 0
+KRight
+T 2 2 1
+KLeft
+T 2 1 2
+KUp
+T 2 3 1
+KUp
+T 4 0 3
+T 2 0 1
+T 2 0 0
+T 2 2 3
+KUp
+T 2 3 0
+KRight
+T 4 3 2
+KUp
+T 2 1 2
+T 2 0 3
+T 2 2 0
+KUp
+T 2 1 2
+T 2 0 0
+T 2 2 1
+KRight
+T 2 2 0
+KLeft
+T 2 1 2
+KRight
+T 4 3 3
+KUp
+T 2 0 2
+T 2 3 1
+KUp
+T 2 3 2
+KUp
+T 2 0 3
+T 2 1 1
+T 4 0 3
+T 4 3 2
+KLeft
+T 4 3 2
+KUp
+T 4 0 3
+KRight
+T 2 2 3
+T 2 2 1
+T 2 1 2
+T 2 3 0
+KUp
+T 2 2 0
+KUp
+T 2 2 0
+KRight
+T 2 1 1
+T 2 3 3
+KUp
+KLeft
+T 2 3 1
+KUp
+T 2 1 1
+T 2 1 3
+KRight
+T 4 2 2
+T 2 3 2
+KUp
+T 2 3 1
+KRight
+T 2 0 3
+T 2 3 3
+T 2 3 0
+KUp
+T 4 2 1
+KRight
+T 2 3 2
+KUp
+T 2 1 1
+T 2 0 2
+T 2 1 2
+T 2 3 3
+KRight
+T 2 3 3
+T 2 3 1
+KUp
+T 2 0 3
+T 2 1 3
+T 2 0 2
+T 2 2 0
+KLeft
+T 2 2 2
+KLeft
+T 2 2 1
+T 2 2 3
+KRight
+T 2 3 3
+KLeft
+T 2 2 3
+KRight
+T 2 3 1
+KUp
+T 2 0 3
+T 2 0 3
+T 2 2 2
+T 2 1 2
+T 2 3 3
+KLeft
+T 2 0 3
+T 2 0 2
+T 2 3 1
+KUp
+T 2 2 2
+KLeft
+T 2 3 1
+KUp
+T 2 2 2
+T 2 3 1
+T 2 0 3
+T 2 3 0
+KUp
+T 2 0 1
+T 2 1 1
+T 2 1 2
+T 2 0 2
+T 2 1 2
+T 4 3 0
+KRight
+T 2 2 1
+T 2 3 3
+T 2 2 3
+T 2 0 0
+T 2 3 1
+KUp
+T 2 1 1
+T 2 3 2
+T 2 1 0
+T 2 1 1
+T 2 0 2
+T 2 1 2
+T 2 3 0
+KUp
+T 2 3 3
+KLeft
+T 2 3 0
+T 2 3 2
+KLeft
+T 2 3 1
+T 2 2 0
+T 2 2 1
+T 2 2 0
+T 4 2 2
+T 2 0 1
+T 2 0 3
+T 2 3 0
+T 2 3 0
+T 2 0 1
+T 2 2 1
+T 2 0 2
+T 2 0 0
+T 2 0 0
+T 2 2 0
+T 4 1 1
+T 2 3 2
+KUp
+T 2 3 2
+T 2 2 0
+T 2 0 2
+T 2 0 3
+T 2 0 3
+T 4 3 3
+KLeft
+T 2 0 2
+T 2 3 1
+T 2 1 1
+T 2 1 3
+T 4 3 1
+T 2 1 1
+T 2 1 3
+T 2 2 2
+T 4 0 1
+T 2 1 0
+T 2 1 2
+T 2 1 0
+T 2 0 1
+T 4 3 1
+T 2 2 1
+T 4 3 3
+KUp
+T 2 1 0
+T 2 0 2
+T 2 0 3
+T 4 1 1
+T 2 2 1
+T 2 3 2
+KRight
+T 2 3 0
+KLeft
+T 2 1 0
+T 2 3 3
+KUp
+T 2 0 2
+T 2 1 3
+T 2 3 3
+KUp
+T 2 0 3
+T 2 1 0
+T 2 3 0
+T 4 0 1
+T 2 3 3
+KRight
+T 2 1 2
+T 2 2 0
+KUp
+T 4 2 0
+T 2 3 0
+KRight
+T 2 2 0
+KUp
+T 2 3 1
+KLeft
+T 2 2 1
+T 2 2 0
+T 2 1 0
+T 2 3 0
+T 2 0 3
+T 2 1 2
+T 2 1 2
+T 2 2 0
+T 2 1 0
+T 2 0 3
+T 2 0 2
+T 2 0 3
+T 2 0 3
+T 2 0 0
+T 2 0 0
+T 2 3 3
+KUp
+T 2 3 3
+KUp
+T 2 0 0
+T 2 0 3
+T 2 0 3
+T 4 1 2
+T 2 3 0
+T 4 0 0
+T 2 0 0
+T 2 0 3
+T 4 0 3
+T 2 1 2
+T 2 1 0
+T 2 0 0
+T 2 2 0
+T 2 2 2
+KRight
+T 2 3 1
+KUp
+T 4 2 3
+T 2 3 1
+T 2 0 2
+T 2 3 2
+KUp
+T 2 3 3
+KRight
+T 2 3 3
+T 2 1 1
+T 2 0 3
+T 2 0 1
+T 4 1 3
+T 2 2 2
+T 2 0 1
+T 2 2 0
+KUp
+T 2 2 3
+T 2 3 0
+KRight
+T 2 0 1
+T 2 0 2
+T 2 0 1
+T 2 0 3
+T 2 1 2
+T 2 3 0
+KUp
+T 2 0 2
+T 4 3 0
+KRight
+T 2 1 1
+T 2 0 2
+T 2 2 1
+KRight
+T 2 0 1
+T 2 1 0
+T 2 0 2
+T 2 2 0
+KUp
+T 2 3 0
+KUp
+T 2 1 3
+T 2 0 1
+T 2 0 1
+T 2 2 2
+T 2 2 1
+KRight
+T 2 2 1
+T 2 1 1
+T 2 2 0
+KRight
+T 2 0 3
+T 2 3 2
+KUp
+KLeft
+T 2 0 3
+T 2 2 1
+T 2 0 0
+T 4 3 3
+KUp
+T 2 0 1
+T 2 1 3
+T 2 1 1
+T 4 0 1
+T 2 2 2
+T 2 1 2
+T 2 1 1
+T 2 1 2
+T 2 1 1
+T 2 0 1
+T 2 1 0
+T 2 2 2
+T 2 3 1
+KRight
+T 2 1 1
+T 2 0 3
+T 2 2 1
+T 2 0 0
+T 2 1 3
+T 2 0 1
+T 4 1 1
+T 2 3 1
+KRight
+T 2 0 3
+T 2 3 3
+T 2 2 1
+KUp
+T 4 1 3
+T 2 0 0
+T 2 3 3
+KLeft
+T 2 1 2
+T 2 3 0
+T 2 3 1
+KUp
+T 2 0 1
+T 4 1 1
+T 2 3 1
+T 2 2 0
+T 2 3 3
+KUp
+T 2 2 3
+T 2 0 0
+T 2 1 0
+T 2 0 0
+T 2 3 0
+KRight
+T 2 2 0
+T 2 0 3
+T 2 0 2
+T 4 1 2
+T 2 3 0
+KUp
+KLeft
+T 4 0 1
+T 2 1 0
+T 4 1 2
+T 2 1 3
+T 2 0 2
+T 2 0 1
+T 2 3 3
+KUp
+T 2 2 3
+T 2 1 1
+T 2 2 1
+T 2 0 2
+T 4 1 1
+T 2 2 2
+T 2 0 1
+T 2 0 3
+T 2 0 0
+T 2 2 1
+T 2 2 0
+T 4 2 2
+T 2 1 2
+T 2 2 2
+T 2 1 3
+T 2 2 2
+T 2 2 1
+T 2 0 3
+T 2 1 1
+T 2 0 2
+T 4 0 0
+T 2 0 1
+T 2 3 3
+KUp
+KLeft
+T 2 3 1
+T 4 0 2
+T 2 3 3
+KRight
+T 2 3 3
+T 4 3 1
+T 2 0 3
+T 4 1 3
+T 2 2 0
+T 4 3 0
+KUp
+T 2 0 1
+T 2 2 0
+T 2 3 2
+T 4 0 2
+T 2 0 1
+T 4 2 1
+T 2 3 2
+T 4 3 1
+T 4 0 0
+T 2 3 3
+KRight
+T 2 0 1
+T 2 0 0
+T 2 3 2
+T 2 3 0
+KUp
+T 2 3 1
+T 2 1 2
+T 2 2 3
+T 2 0 3
+T 2 1 0
+T 2 1 1
+T 2 2 0
+T 2 0 1
+T 4 1 3
+T 2 2 0
+T 2 1 0
+T 2 2 0
+T 2 2 3
+T 2 1 1
+T 4 3 1
+T 2 2 1
+T 4 3 1
+T 2 3 0
+KLeft
+T 2 2 0
+T 2 2 3
+T 2 1 0
+T 2 0 3
+T 2 1 2
+T 2 1 3
+KLeft
+T 2 0 2
+T 2 3 1
+KRight
+T 2 3 1
+KUp
+T 2 2 0
+KUp
+T 2 3 0
+KUp
+T 2 2 1
+T 2 3 3
+KUp
+T 2 2 2
+T 4 3 3
+KUp
+T 4 1 3
+T 2 3 2
+KUp
+KLeft
+T 2 3 2
+KUp
+T 2 1 2
+T 2 1 3
+KUp
+KLeft
+T 2 2 0
+T 2 1 1
+T 2 3 2
+KUp
+T 2 3 2
+T 2 0 1
+T 2 3 1
+KLeft
+T 2 0 2
+T 2 1 2
+T 2 3 2
+KUp
+T 2 1 1
+T 2 2 1
+T 2 2 3
+KUp
+T 2 0 1
+T 2 1 3
+T 2 3 3
+KRight
+T 2 1 2
+T 4 1 0
+T 2 3 1
+KUp
+T 2 3 2
+KRight
+T 2 2 0
+KLeft
+T 2 1 1
+T 2 2 2
+KLeft
+T 2 0 3
+T 2 0 3
+T 2 2 1
+T 2 1 3
+T 2 3 0
+T 2 1 0
+T 2 1 1
+T 2 0 1
+T 2 3 1
+KUp
+T 2 2 0
+T 2 3 0
+T 2 2 2
+KRight
+T 2 3 2
+KUp
+T 2 0 3
+T 2 0 0
+T 2 1 1
+T 2 3 0
+KRight
+T 2 0 3
+T 4 1 0
+T 2 2 3
+T 2 2 2
+T 4 0 1
+T 2 2 2
+T 2 3 3
+T 2 2 1
+KUp
+T 2 0 1
+T 2 3 3
+KLeft
+T 2 3 0
+T 2 2 0
+T 2 0 3
+T 4 1 2
+T 2 2 1
+T 2 0 0
+T 2 1 0
+T 2 2 1
+T 2 3 0
+T 2 0 1
+T 2 3 1
+KLeft
+T 2 3 3
+KUp
+T 2 1 1
+T 2 0 3
+T 2 0 1
+T 2 2 0
+T 2 1 2
+T 2 3 3
+KUp
+T 2 2 2
+KRight
+T 4 1 0
+KUp
+KLeft
+T 2 1 2
+T 2 1 0
+T 4 1 2
+T 2 2 1
+T 2 0 1
+T 2 0 2
+T 2 0 0
+T 2 0 1
+T 4 1 2
+T 2 0 2
+T 2 1 0
+T 2 0 1
+T 2 1 2
+T 2 2 3
+KLeft
+T 2 2 0
+T 2 2 3
+KUp
+KRight
+T 2 0 2
+T 2 0 0
+T 2 0 1
+T 2 3 3
+T 4 2 0
+T 2 3 1
+KLeft
+T 2 3 1
+T 2 0 1
+T 2 1 3
+T 2 0 3
+T 4 2 2
+T 2 1 1
+T 2 2 3
+T 2 3 3
+KUp
+T 4 0 2
+T 2 3 0
+KUp
+T 2 0 0
+T 2 2 1
+T 2 0 3
+T 2 3 0
+KUp
+T 2 0 2
+T 4 1 0
+T 2 3 1
+T 2 3 2
+KLeft
+T 2 0 2
+T 2 2 1
+T 2 3 1
+T 2 1 0
+T 2 0 1
+T 2 2 1
+T 2 0 2
+T 2 2 1
+T 2 3 3
+KUp
+T 2 2 2
+T 2 1 3
+T 2 2 1
+T 4 1 0
+T 2 0 2
+T 2 1 0
+T 2 3 2
+KUp
+T 2 0 2
+T 4 1 0
+T 2 2 0
+KRight
+T 2 0 2
+T 4 3 0
+KUp
+T 2 1 1
+T 2 2 2
+T 2 3 3
+T 2 0 0
+T 2 3 3
+T 2 0 0
+T 2 3 0
+KLeft
+T 2 1 2
+T 2 2 2
+T 2 2 2
+T 2 0 2
+T 2 2 0
+T 2 0 3
+T 2 2 0
+T 2 3 3
+KUp
+T 2 2 1
+T 2 0 3
+T 2 3 3
+KUp
+T 4 1 0
+T 2 0 2
+T 2 3 1
+T 2 0 0
+T 2 1 2
+T 2 3 2
+KUp
+T 2 2 3
+T 2 2 3
+T 2 3 0
+KRight
+T 2 1 0
+T 2 0 2
+T 2 1 3
+T 2 0 3
+T 4 3 2
+T 2 2 0
+KUp
+T 2 3 3
+KRight
+T 2 0 0
+T 2 2 3
+T 2 2 3
+T 2 0 1
+T 2 3 0
+KUp
+T 4 2 2
+T 2 0 1
+T 2 0 0
+T 4 3 3
+KLeft
+T 2 1 0
+T 2 0 3
+T 2 3 0
+T 2 3 2
+KUp
+T 2 1 1
+T 2 2 3
+KUp
+T 2 1 3
+T 2 2 3
+T 2 2 2
+T 2 0 2
+T 2 0 1
+T 2 1 3
+T 4 3 3
+KLeft
+T 4 1 1
+T 2 0 2
+T 4 2 0
+T 2 3 0
+T 2 2 3
+KUp
+T 2 0 2
+T 2 3 3
+KRight
+T 4 2 3
+T 2 0 0
+T 2 1 1
+T 4 2 1
+T 2 0 1
+T 2 1 2
+T 2 2 0
+KRight
+T 2 1 2
+T 2 0 2
+T 2 1 3
+T 2 0 1
+T 4 0 3
+T 2 1 2
+T 2 3 2
+T 2 0 1
+T 2 3 0
+KUp
+T 4 0 2
+T 2 1 2
+T 2 1 1
+T 2 3 3
+T 2 3 0
+KUp
+T 2 1 2
+T 2 1 0
+T 2 0 1
+T 2 2 0
+KLeft
+T 2 0 3
+T 2 3 3
+KUp
+T 4 2 2
+T 2 2 0
+T 2 1 3
+T 2 0 1
+T 2 0 2
+T 2 3 3
+KUp
+T 2 0 0
+T 2 1 2
+T 2 3 3
+KRight
+T 2 1 0
+T 2 3 2
+T 2 2 3
+T 2 2 0
+KUp
+T 2 1 3
+T 2 1 2
+T 2 2 1
+T 2 1 1
+T 2 3 0
+KRight
+T 2 2 1
+T 2 3 2
+T 2 2 0
+KUp
+T 2 3 2
+T 2 3 1
+KUp
+T 4 1 2
+T 2 3 2
+T 2 1 2
+T 2 0 3
+T 2 3 0
+KLeft
+T 4 1 3
+KUp
+KRight
+T 2 2 2
+T 2 1 0
+T 2 0 0
+T 2 1 2
+T 2 3 1
+KUp
+T 2 3 3
+T 2 2 2
+T 2 2 1
+T 2 1 2
+T 2 3 2
+KRight
+T 2 2 1
+KUp
+KLeft
+T 2 1 2
+T 2 3 0
+T 2 2 2
+T 2 0 1
+T 2 2 3
+KUp
+KUp
+KRight
+T 2 2 1
+T 2 3 3
+T 2 2 0
+T 2 0 1
+T 2 3 1
+KLeft
+T 2 2 2
+T 2 3 0
+T 2 2 2
+T 2 3 2
+KUp
+T 2 3 2
+T 2 0 2
+T 2 0 0
+T 2 0 1
+T 2 0 1
+T 2 3 3
+KUp
+T 2 2 1
+T 2 0 0
+T 2 1 3
+T 2 2 2
+T 2 1 0
+T 2 0 2
+T 2 2 3
+T 2 3 3
+KUp
+T 2 0 0
+T 2 1 2
+T 2 0 0
+T 2 0 0
+T 2 0 3
+T 2 1 2
+T 2 2 1
+T 2 3 1
+KLeft
+T 2 0 0
+T 4 0 3
+T 2 0 2
+T 2 2 3
+T 4 2 3
+T 2 0 0
+T 2 1 0
+T 2 2 3
+T 2 0 0
+T 2 1 1
+T 2 2 0
+T 4 1 1
+T 2 0 1
+T 2 1 1
+T 2 0 1
+T 2 0 2
+T 2 1 0
+T 2 1 1
+T 2 3 0
+T 4 3 2
+KUp
+T 4 1 3
+T 2 3 3
+KUp
+T 2 3 3
+KUp
+KLeft
+T 2 0 2
+T 2 2 2
+T 2 0 3
+T 2 1 2
+T 4 3 1
+T 2 1 3
+T 4 0 1
+T 2 3 2
+KRight
+T 2 3 3
+T 2 3 2
+T 2 0 1
+T 4 2 3
+T 2 1 1
+T 2 3 1
+KUp
+T 2 0 1
+T 2 2 3
+T 2 1 2
+T 2 1 3
+T 2 3 1
+T 2 0 0
+T 2 2 0
+KUp
+T 2 2 1
+T 4 0 0
+T 4 0 2
+T 2 2 1
+T 2 1 1
+T 2 0 2
+T 2 3 0
+KRight
+T 2 3 1
+KUp
+T 2 2 3
+T 2 1 2
+T 2 0 0
+T 2 0 3
+T 2 3 2
+T 2 0 3
+T 2 0 2
+T 2 3 0
+KLeft
+T 2 3 1
+T 2 2 3
+KUp
+T 4 1 2
+T 4 3 1
+T 2 3 1
+T 2 2 1
+T 2 2 1
+T 2 1 1
+T 2 1 0
+T 2 0 2
+T 2 1 3
+T 2 2 2
+T 2 3 0
+T 2 0 0
+T 2 1 1
+T 2 1 3
+T 2 2 2
+T 2 2 3
+KUp
+T 2 0 3
+T 2 0 1
+T 2 0 3
+T 2 3 3
+KRight
+T 2 0 3
+T 2 1 3
+T 4 2 3
+T 4 0 1
+T 2 2 3
+T 2 3 1
+T 2 2 1
+T 2 2 2
+T 2 1 2
+T 4 1 2
+T 2 0 0
+T 2 3 0
+KUp
+T 2 0 2
+T 4 3 0
+KUp
+KDown
+T 2 3 0
+T 2 3 0
+T 2 1 0
+T 2 2 1
+T 2 2 3
+T 2 2 0
+T 2 1 1
+T 2 3 2
+T 2 0 2
+T 2 2 1
+T 2 1 2
+T 2 2 0
+T 2 1 0
+T 2 3 0
+T 2 1 2
+T 2 1 0
+T 2 3 3
+T 2 1 3
+T 2 3 3
+T 4 3 3
+T 4 0 0
+T 2 2 3
+T 4 1 0
+T 2 3 1
+T 2 2 1
+T 2 3 0
+T 4 2 0
+T 2 3 3
+T 2 0 2
+T 2 3 1
+T 2 2 1
+T 2 0 2
+T 2 3 3
+T 2 3 1
+T 2 3 0
+T 4 1 2
+T 2 2 0
+T 4 1 1
+T 2 2 2
+T 2 1 1
+T 2 1 3
+T 2 2 1
+T 2 2 0
+T 2 2 3
+T 4 3 2
+T 2 0 1
+T 4 1 3
+T 2 0 2
+T 2 2 0
+T 4 1 3
+T 2 3 0
+T 2 3 2
+T 2 2 2
+T 2 1 1
+T 2 1 2
+T 2 1 1
+T 2 1 3
+T 2 3 1
+T 2 1 3
+T 2 3 3
+T 2 1 2
+T 2 0 0
+T 2 0 3
+KUp
+KRight
+T 4 0 1
+T 2 3 1
+T 2 1 0
+T 2 2 1
+T 2 1 2
+T 4 1 2
+T 2 3 3
+T 2 1 0
+T 2 0 2
+T 2 2 2
+T 2 3 1
+T 2 1 1
+T 2 0 2
+T 2 0 2
+T 2 2 2
+T 2 2 1
+T 2 0 3
+T 2 1 3
+T 2 2 3
+T 2 0 1
+T 2 2 2
+T 2 3 2
+T 4 0 1
+T 2 2 1
+T 2 0 2
+T 2 3 2
+T 4 1 2
+T 2 2 3
+T 4 2 2
+T 2 1 0
+T 2 2 3
+T 2 2 0
+KUp
+T 4 1 2
+T 2 3 1
+KRight
+T 2 3 3
+T 2 1 0
+T 2 3 3
+T 2 3 2
+T 2 1 2
+T 2 0 1
+T 2 0 2
+T 2 1 3
+T 2 2 3
+T 2 1 2
+T 2 0 0
+T 2 1 0
+T 2 1 2
+T 2 2 2
+T 2 1 0
+T 2 2 1
+T 2 1 3
+T 2 2 0
+T 2 3 2
+T 2 0 2
+T 2 3 2
+T 2 3 0
+KLeft
+T 2 3 0
+T 2 0 2
+T 4 3 3
+KRight
+T 2 1 0
+T 2 0 2
+T 2 3 0
+KUp
+T 2 3 0
+KRight
+T 2 3 2
+T 2 2 2
+T 2 2 1
+KUp
+T 2 2 3
+T 4 3 3
+KLeft
+T 2 3 1
+KLeft
+T 2 0 3
+T 2 3 3
+KUp
+T 4 3 1
+T 2 3 3
+KRight
+T 2 3 1
+KUp
+T 2 2 2
+T 2 1 1
+T 2 3 0
+KLeft
+T 2 2 1
+T 2 3 2
+KUp
+T 2 1 2
+T 4 2 1
+T 4 0 2
+T 2 1 1
+T 2 3 1
+KRight
+T 2 1 2
+T 2 0 2
+T 2 0 0
+KUp
+T 4 1 0
+KUp
+T 4 3 1
+KUp
+T 2 2 2
+T 2 2 2
+T 2 2 0
+KRight
+T 2 0 0
+T 2 2 0
+KLeft
+T 2 0 2
+T 2 2 3
+KUp
+T 2 3 3
+KUp
+T 2 3 1
+KUp
+T 2 2 2
+KRight
+T 2 1 1
+T 2 3 2
+KRight
+T 4 3 3
+T 2 2 2
+KUp
+T 2 0 2
+T 2 1 3
+T 2 3 3
+KUp
+T 2 0 3
+T 2 2 3
+KLeft
+T 2 3 1
+KUp
+T 2 2 2
+KLeft
+T 2 2 0
+T 4 3 3
+KUp
+T 2 1 1
+T 2 0 2
+T 2 2 1
+T 2 0 3
+T 2 1 0
+T 2 0 3
+T 2 0 1
+T 2 2 3
+KRight
+T 2 3 2
+KUp
+T 2 0 2
+T 2 1 3
+T 2 2 1
+KLeft
+T 4 3 3
+KUp
+T 2 3 1
+KRight
+T 2 3 1
+KUp
+T 2 3 3
+T 2 2 1
+T 2 1 2
+T 2 0 1
+T 2 0 3
+T 2 2 3
+T 2 1 3
+T 2 2 0
+KLeft
+T 2 1 0
+T 2 1 0
+T 2 2 2
+KRight
+T 2 0 0
+T 2 3 2
+KUp
+T 2 3 1
+KUp
+T 2 1 2
+T 2 2 1
+T 2 2 3
+KRight
+T 2 0 1
+T 2 2 3
+T 2 1 1
+T 2 3 2
+KUp
+KLeft
+T 2 2 2
+T 2 2 1
+T 2 3 0
+T 2 1 3
+T 2 0 1
+T 2 1 0
+T 2 2 2
+T 2 3 0
+T 2 2 1
+T 4 1 2
+T 2 2 2
+T 2 1 3
+T 2 3 3
+KUp
+T 2 3 2
+KRight
+T 2 1 1
+T 2 0 1
+T 2 3 2
+T 2 1 3
+T 2 1 1
+T 4 1 2
+T 2 1 2
+T 2 2 1
+T 2 2 2
+T 2 0 1
+T 2 1 3
+T 2 3 1
+T 4 3 2
+T 2 0 1
+T 2 3 3
+T 2 0 1
+T 2 3 1
+T 2 2 1
+T 2 1 0
+T 2 0 2
+T 2 2 3
+T 4 3 1
+T 2 2 3
+T 4 2 1
+T 2 0 0
+T 2 3 0
+KLeft
+T 2 1 2
+T 2 1 2
+T 2 1 3
+T 2 3 1
+T 2 1 0
+T 2 2 0
+T 2 3 1
+T 2 1 1
+T 2 3 2
+T 2 0 3
+T 2 1 0
+T 2 0 1
+T 4 1 1
+T 2 1 1
+T 2 0 0
+T 2 0 2
+T 2 1 0
+T 2 1 0
+T 2 1 1
+T 2 0 3
+T 2 3 2
+T 2 1 0
+T 4 2 1
+T 2 0 0
+T 2 1 3
+T 2 3 1
+T 2 1 2
+T 4 2 3
+KUp
+T 2 1 1
+T 2 3 1
+T 2 0 2
+T 2 1 3
+T 2 3 2
+T 2 1 0
+T 2 1 3
+T 4 2 2
+T 2 2 1
+T 2 0 3
+T 2 3 0
+KUp
+T 2 2 0
+T 2 2 3
+T 4 1 1
+T 2 0 2
+T 2 3 1
+T 2 1 2
+T 2 3 2
+T 2 1 3
+T 2 0 0
+T 2 2 1
+T 2 0 2
+T 2 3 1
+T 2 0 2
+T 2 2 1
+T 2 0 1
+T 2 1 1
+T 2 1 2
+T 2 2 1
+T 2 3 0
+KUp
+T 2 1 0
+T 4 3 2
+T 2 1 3
+T 2 1 1
+T 2 2 0
+T 4 3 2
+T 4 2 3
+T 2 1 0
+T 2 0 0
+T 2 1 3
+T 2 2 1
+T 2 2 0
+T 2 1 3
+T 2 1 1
+T 2 1 0
+T 2 2 3
+T 2 3 1
+T 2 2 3
+T 2 3 2
+T 2 3 3
+KUp
+KRight
+T 2 0 3
+T 2 1 3
+T 2 1 3
+T 2 3 3
+T 2 1 0
+T 2 1 1
+T 2 3 0
+KUp
+T 2 2 0
+T 2 3 2
+T 2 2 3
+T 2 0 1
+T 2 1 3
+T 2 3 1
+KLeft
+T 2 2 3
+T 2 0 1
+T 2 3 2
+KLeft
+T 2 2 0
+T 4 1 2
+KUp
+T 2 2 0
+T 2 3 2
+T 2 2 1
+KLeft
+T 2 2 2
+T 2 0 0
+T 2 3 1
+KUp
+T 2 1 0
+T 2 1 0
+T 2 2 2
+KLeft
+T 2 3 3
+KRight
+T 2 2 2
+T 2 2 2
+T 2 3 1
+KUp
+T 4 2 1
+T 2 2 2
+KRight
+T 2 3 0
+KUp
+T 2 1 2
+T 2 1 1
+KLeft
+T 2 2 2
+KUp
+T 2 3 3
+KUp
+T 2 0 1
+T 2 3 2
+KRight
+T 2 1 0
+KUp
+T 2 1 2
+T 2 0 0
+T 2 0 3
+T 4 2 0
+KLeft
+T 2 0 1
+T 2 1 0
+T 2 2 1
+T 2 0 2
+T 2 3 3
+KUp
+T 2 1 0
+T 2 1 2
+T 2 2 0
+T 2 1 3
+T 2 2 3
+T 2 0 2
+T 2 3 1
+KRight
+T 2 0 2
+T 2 3 1
+KUp
+T 2 1 3
+T 2 2 0
+KLeft
+T 2 3 1
+KLeft
+T 2 1 0
+T 2 3 1
+KUp
+T 2 0 2
+T 2 0 3
+T 2 3 2
+KUp
+T 2 3 3
+KUp
+T 2 3 1
+KRight
+T 2 2 3
+T 2 0 2
+T 2 0 1
+T 2 0 1
+T 2 2 2
+T 2 3 0
+KUp
+T 2 3 3
+KLeft
+T 2 3 2
+KUp
+T 2 2 3
+KLeft
+T 2 1 3
+KLeft
+T 4 3 0
+T 4 1 1
+T 2 1 0
+T 2 0 1
+T 2 2 2
+KLeft
+T 2 1 1
+T 2 3 0
+T 2 1 3
+T 2 3 1
+KUp
+T 2 0 1
+T 2 3 0
+T 2 3 1
+KUp
+KRight
+T 2 3 3
+T 2 0 0
+T 2 3 2
+KUp
+T 2 2 0
+KLeft
+T 2 0 1
+T 2 3 1
+KUp
+T 2 1 1
+T 2 3 0
+KUp
+T 2 1 1
+T 4 0 2
+T 2 0 3
+T 2 3 2
+KUp
+T 2 2 1
+T 2 3 2
+KRight
+T 2 2 2
+T 2 3 2
+KUp
+T 2 0 2
+T 2 3 0
+KLeft
+T 4 1 2
+T 2 3 0
+T 2 3 0
+T 2 0 3
+T 2 2 0
+T 2 3 2
+KUp
+T 2 2 3
+KLeft
+T 2 3 0
+KUp
+T 2 3 0
+KUp
+T 2 1 3
+KRight
+T 4 1 3
+T 4 2 1
+KLeft
+T 2 2 1
+T 2 0 0
+T 2 2 3
+KUp
+T 2 2 2
+T 2 3 3
+KRight
+T 2 2 2
+T 2 2 1
+T 2 3 3
+T 4 0 2
+T 2 2 3
+T 2 1 0
+T 2 2 3
+T 2 0 0
+T 4 0 3
+T 2 2 2
+T 2 1 0
+T 2 0 0
+T 2 1 2
+T 2 2 0
+KUp
+T 2 0 2
+T 2 1 2
+T 2 0 2
+T 2 2 0
+T 2 0 0
+T 2 3 1
+KLeft
+T 2 0 0
+T 2 1 2
+T 2 2 1
+T 2 1 0
+T 2 0 0
+T 2 2 1
+T 4 3 0
+T 2 0 1
+T 4 2 3
+KRight
+T 2 0 3
+T 2 2 2
+T 2 0 2
+T 2 2 0
+KUp
+T 2 2 3
+T 2 2 2
+T 2 3 0
+KLeft
+T 2 2 0
+T 2 2 0
+T 2 1 3
+T 2 1 0
+T 2 3 3
+KUp
+T 2 0 1
+T 2 2 0
+T 2 2 3
+T 2 2 0
+T 2 2 3
+T 2 2 0
+T 2 3 3
+KUp
+T 2 2 1
+T 2 2 2
+T 2 2 0
+KLeft
+T 2 3 0
+KUp
+T 2 0 0
+T 2 0 0
+T 2 1 0
+T 2 3 2
+KLeft
+T 2 2 2
+KUp
+T 2 2 0
+T 2 3 3
+KUp
+T 2 3 3
+KRight
+T 2 1 1
+T 2 2 1
+T 2 3 1
+KUp
+T 2 2 2
+T 2 0 1
+T 2 2 0
+KUp
+KDown
+T 2 1 3
+T 2 2 1
+T 2 2 2
+T 4 3 0
+T 2 3 0
+T 2 3 0
+T 2 2 1
+T 2 2 2
+T 2 1 1
+T 2 3 1
+T 2 2 1
+T 2 3 1
+T 2 3 0
+T 4 0 0
+KUp
+T 2 2 2
+T 4 1 2
+T 2 3 1
+KRight
+T 2 2 0
+T 2 1 3
+T 2 0 0
+T 2 1 0
+T 2 1 1
+T 2 3 1
+KLeft
+T 2 0 1
+T 2 2 1
+T 2 2 2
+T 2 3 2
+KRight
+T 4 3 1
+T 2 1 0
+T 2 3 0
+KUp
+T 2 2 3
+T 2 0 3
+T 2 3 3
+KRight
+T 2 3 2
+T 2 0 0
+T 2 3 2
+T 2 1 1
+T 2 1 3
+T 4 0 3
+T 2 1 3
+T 2 3 3
+T 4 1 3
+T 2 3 2
+T 2 2 2
+T 2 2 1
+T 2 1 0
+T 2 3 2
+T 2 1 1
+T 2 2 0
+T 2 0 3
+T 2 2 0
+T 2 0 0
+T 2 2 1
+T 2 1 1
+T 2 0 2
+T 2 0 2
+T 2 2 2
+T 2 1 2
+T 2 2 1
+T 2 1 0
+T 2 3 2
+T 2 1 1
+T 2 3 2
+T 2 3 0
+KUp
+T 2 3 0
+T 2 2 0
+T 2 0 3
+T 2 0 3
+T 4 2 2
+T 2 1 3
+T 2 0 2
+T 2 1 0
+T 2 2 1
+T 2 0 3
+T 2 2 2
+T 2 1 2
+T 2 0 1
+T 2 0 2
+T 2 2 1
+T 2 2 0
+T 2 1 2
+T 2 1 1
+T 2 1 2
+T 2 1 3
+T 2 2 0
+T 2 0 0
+T 2 0 2
+T 2 3 2
+T 2 0 2
+T 2 2 1
+T 4 3 0
+T 2 0 1
+T 2 3 0
+T 2 3 0
+T 2 3 0
+T 2 3 0
+T 2 0 0
+T 2 2 2
+T 2 1 0
+T 2 0 2
+T 2 1 3
+T 2 3 1
+KRight
+T 2 3 0
+KUp
+T 2 3 2
+KRight
+T 2 3 2
+T 2 0 1
+T 2 0 2
+T 2 3 0
+KUp
+T 2 3 0
+KRight
+T 2 3 3
+T 2 1 1
+T 2 2 0
+KUp
+T 2 0 0
+T 2 3 1
+KRight
+T 2 2 1
+T 2 2 3
+T 2 0 1
+T 2 0 1
+T 2 1 1
+T 2 2 2
+T 4 2 2
+T 2 0 1
+T 2 1 3
+T 2 3 2
+KUp
+T 2 2 3
+T 2 3 1
+KLeft
+T 2 0 3
+T 2 0 1
+T 4 2 2
+KLeft
+T 2 1 1
+T 2 1 3
+KUp
+T 2 3 0
+T 2 3 2
+KRight
+T 2 1 2
+T 2 1 1
+T 4 1 2
+T 2 3 2
+T 2 0 2
+T 2 0 3
+T 4 1 2
+T 2 1 2
+T 2 3 0
+KUp
+T 2 0 3
+T 2 0 0
+T 2 1 2
+T 2 0 3
+T 2 1 1
+T 2 2 3
+T 2 0 1
+T 2 0 2
+T 2 0 1
+T 2 2 2
+KLeft
+T 2 2 1
+T 4 3 0
+KUp
+T 2 0 2
+T 2 1 1
+T 2 0 2
+T 2 0 1
+T 2 3 0
+KRight
+T 2 2 3
+T 2 2 1
+KUp
+T 2 1 2
+T 2 3 2
+KUp
+T 2 1 2
+T 4 0 1
+T 2 1 3
+T 2 3 3
+KRight
+T 2 1 3
+T 2 2 0
+KUp
+T 2 0 0
+T 2 0 1
+T 2 1 3
+T 2 1 0
+T 2 3 2
+KRight
+T 2 0 2
+T 2 3 2
+KRight
+T 2 3 1
+KUp
+T 2 1 2
+T 2 0 0
+T 2 2 2
+KLeft
+T 2 2 2
+KUp
+T 2 1 2
+T 2 3 1
+KLeft
+T 2 0 3
+T 2 3 1
+KLeft
+T 2 3 1
+KUp
+T 2 3 1
+KUp
+T 4 3 0
+T 2 1 2
+KRight
+T 2 0 2
+T 2 2 3
+T 4 3 0
+KUp
+T 2 0 1
+T 2 3 0
+KUp
+T 2 0 2
+T 2 2 1
+KLeft
+T 2 3 0
+KUp
+T 2 2 3
+KLeft
+T 2 0 1
+T 2 2 0
+T 2 3 2
+KUp
+T 2 3 0
+KLeft
+T 2 0 0
+T 4 0 0
+T 2 3 2
+KUp
+T 2 2 1
+KLeft
+T 2 0 3
+T 2 3 3
+KUp
+T 2 0 3
+T 4 0 0
+T 2 1 1
+T 2 3 1
+KUp
+T 2 3 0
+KRight
+T 2 3 3
+T 2 0 0
+T 2 0 3
+T 2 1 0
+T 2 1 0
+T 2 2 1
+KLeft
+T 2 2 0
+T 2 3 3
+KUp
+T 4 1 3
+T 2 3 3
+KLeft
+T 2 1 1
+T 2 0 0
+T 2 3 3
+KUp
+T 4 1 2
+T 2 3 2
+KRight
+T 2 0 3
+T 2 1 0
+KUp
+KLeft
+T 2 0 3
+T 2 1 0
+T 2 2 0
+T 2 2 0
+T 2 1 0
+T 2 1 3
+T 2 0 3
+T 2 2 1
+T 2 2 2
+KUp
+T 2 3 1
+KLeft
+T 2 2 0
+T 2 1 3
+T 2 2 0
+T 2 3 2
+KUp
+T 2 0 0
+T 2 1 2
+T 2 3 2
+KUp
+T 2 3 2
+KLeft
+T 2 3 2
+KUp
+T 2 0 3
+T 2 1 1
+T 2 0 3
+T 2 0 2
+T 2 1 3
+KRight
+T 2 1 1
+T 2 1 3
+T 2 3 3
+T 2 3 1
+KUp
+T 2 2 2
+T 2 3 3
+T 2 3 1
+KRight
+T 2 3 1
+KLeft
+T 2 3 1
+T 4 0 3
+T 2 1 0
+T 2 1 1
+T 2 3 0
+T 2 2 3
+KUp
+T 2 2 2
+KLeft
+T 4 1 2
+T 2 2 2
+T 2 3 1
+KUp
+T 2 2 3
+KUp
+T 2 1 2
+T 2 2 2
+T 4 0 3
+T 2 1 0
+T 4 2 3
+T 2 0 2
+T 2 0 2
+T 2 3 0
+KLeft
+T 2 2 2
+KRight
+T 2 2 0
+KLeft
+T 2 0 2
+T 2 2 1
+T 2 0 0
+T 2 3 3
+KUp
+T 2 3 0
+KUp
+T 2 1 1
+T 4 2 3
+KRight
+T 4 0 1
+T 2 1 1
+T 2 1 1
+T 2 2 2
+T 2 2 2
+T 2 1 2
+T 2 2 3
+T 2 3 0
+KUp
+T 2 2 3
+T 2 0 0
+T 2 2 1
+T 2 3 0
+KLeft
+T 2 3 1
+KLeft
+T 2 0 3
+T 2 3 1
+KUp
+T 2 2 1
+T 2 2 3
+KUp
+T 2 0 1
+T 2 0 1
+T 2 1 0
+T 2 0 3
+T 2 2 2
+KRight
+T 2 2 1
+T 4 3 3
+T 2 2 3
+T 2 0 0
+T 2 2 2
+T 2 1 0
+KUp
+T 2 2 0
+KUp
+T 2 3 3
+KRight
+T 2 0 0
+T 2 1 2
+T 2 1 3
+T 2 3 1
+KUp
+T 2 3 1
+KUp
+T 2 1 2
+T 2 3 0
+KLeft
+T 2 0 3
+T 2 1 0
+T 2 3 3
+KUp
+T 2 1 2
+T 2 2 1
+T 2 3 3
+KUp
+T 2 1 3
+T 2 1 0
+T 2 2 1
+T 2 0 2
+T 4 2 0
+T 2 2 0
+T 2 3 3
+KLeft
+T 2 1 3
+T 2 1 1
+T 2 0 3
+T 2 0 3
+T 2 3 0
+T 2 0 0
+T 2 2 3
+KUp
+KDown
+T 2 0 2
+KRight
+T 4 2 2
+T 2 2 0
+KLeft
+T 2 3 3
+T 2 0 3
+KUp
+T 2 0 1
+T 2 3 2
+KUp
+KLeft
+T 2 3 1
+T 2 0 2
+T 2 3 3
+KLeft
+T 2 1 1
+T 2 0 2
+T 2 0 1
+T 2 1 0
+T 4 0 2
+T 2 1 2
+T 2 3 0
+T 2 1 1
+T 2 3 2
+KRight
+T 2 3 2
+T 2 2 2
+T 2 0 1
+T 2 3 0
+KUp
+T 2 2 2
+T 2 1 0
+T 2 3 1
+T 2 3 3
+T 2 3 1
+T 2 0 1
+T 2 1 0
+T 2 3 2
+KUp
+T 2 1 3
+T 2 2 3
+T 2 2 1
+T 2 1 0
+T 2 0 0
+T 2 1 0
+T 2 1 1
+T 2 3 0
+KUp
+T 2 0 3
+T 2 1 2
+T 4 0 2
+T 2 0 0
+T 2 0 1
+T 2 1 2
+T 2 3 2
+T 2 2 0
+T 4 2 1
+T 2 0 2
+T 2 3 1
+T 2 2 1
+T 2 3 1
+T 4 3 1
+T 2 2 2
+T 2 0 0
+T 2 0 3
+T 4 1 0
+T 2 2 3
+T 2 1 1
+T 2 1 0
+T 2 0 3
+T 2 0 3
+T 2 1 3
+T 2 1 1
+T 2 0 3
+T 2 3 1
+T 4 2 0
+T 2 2 1
+T 2 1 2
+T 2 1 3
+T 4 3 0
+KLeft
+T 2 2 3
+T 4 0 0
+T 2 2 2
+T 2 3 3
+KNew Game
+T 4 2 1
+T 2 3 0
+KUp
+T 2 1 1
+KLeft
+T 2 2 0
+KUp
+T 2 2 2
+KLeft
+T 2 1 3
+KUp
+T 2 2 2
+KUp
+T 2 2 2
+KRight
+T 2 3 3
+KUp
+T 4 2 3
+KLeft
+T 2 0 1
+KUp
+T 2 3 1
+KNew Game
+T 2 3 0
+T 2 3 2
+KQuit
