@@ -13,4 +13,4 @@
    
    A scoreboard on the upper-right keeps track of the user's score. The user's score starts at zero, and is incremented whenever two tiles combine, by the value of the new tile. As with many arcade games, the user's best score is shown alongside the current score.
    
-   The game is won when a tile with a value of 2048 appears on the board, hence the name of the game. After reaching the target score, players can continue in a sandbox mode that continues beyond 2048. The maximum possible tile is 131,072 (or 2^17); the maximum possible score is 3,932,156; the maximum number of moves is 131,038.
+   The game is won when a tile with a value of 2048 appears on the board, hence the name of the game. After reaching the target score, players can continue in a sandbox mode that continues beyond 2048. The maximum possible tile is 131,072 (or 2^17); the maximum possible score is 3,932,156; the maximum number of moves is 131,038. When the player has no legal moves (there are no empty spaces and no adjacent tiles with the same value), the game ends.
