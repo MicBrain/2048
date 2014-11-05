@@ -16,3 +16,8 @@
    The game is won when a tile with a value of 2048 appears on the board, hence the name of the game. After reaching the target score, players can continue in a sandbox mode that continues beyond 2048. The maximum possible tile is 131,072 (or 2^17); the maximum possible score is 3,932,156; the maximum number of moves is 131,038. When the player has no legal moves (there are no empty spaces and no adjacent tiles with the same value), the game ends.
    
 ### REFERENCES
+
+1. http://gabrielecirulli.github.io/2048/
+2. http://2048strategy.com/
+3. http://en.wikipedia.org/wiki/2048_(video_game)
+4. https://inst.eecs.berkeley.edu/~cs61b/fa14/hw/proj0.pdf
